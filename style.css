@@ -39,13 +39,12 @@ margin-left:5%;
     font-weight:700;
 }
 .top-bnr{
-    background-image: url(/top-banner.png);
+    background-image: url(/img/top-banner.png);
     background-repeat: no-repeat;
     
 }
 .dream-big{
     display: flex;
-    background-image: url(/dream-bg.png);
     background-repeat: no-repeat;
     
 }
